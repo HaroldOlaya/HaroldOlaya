@@ -1,6 +1,16 @@
 # Bienvenidos a mi perfil de GitHub 👋
 
 ¡Hola! Soy Harold Olaya, un estudiante de ingeniería electrónica apasionado por la tecnología y la programación. Estoy emocionado de compartir mi trabajo y proyectos en este repositorio.
+Me especializo en:
+
+- 🌐 Desarrollo web con **Django** y **Flask**.
+- ⚛️ Creación de aplicaciones web interactivas con **React**.
+- 🐘 Bases de datos **PostgreSQL** y **SQLite**.
+- 🐍 Programación en **Python**.
+- ☕ Programación en **Java**.
+- 🐼 Manipulación de datos con **Pandas**.
+- 🔢 Cálculos científicos con **NumPy**.
+- 📊 Visualización de datos con **Matplotlib**.
 
 ## Sobre mí 👨‍💻
 
