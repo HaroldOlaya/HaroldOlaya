@@ -1,9 +1,23 @@
-- 👋 Hola soy @HaroldOlaya
-- 👀 Aca mi portafolio https://haroldolaya.mystrikingly.com/
-- 🌱 Actualmente estoy cursando la ingeniería electrónica
-- 📫 Contactarme por correo haroldolaya.2499@hotmail.com
+# Bienvenidos a mi perfil de GitHub 👋
 
-<!---
-HaroldOlaya/HaroldOlaya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+¡Hola! Soy Harold Olaya, un estudiante de ingeniería electrónica apasionado por la tecnología y la programación. Estoy emocionado de compartir mi trabajo y proyectos en este repositorio.
+
+## Sobre mí 👨‍💻
+
+- 💼 Actualmente estoy cursando la ingeniería electrónica.
+- 🌱 Siempre estoy aprendiendo y mejorando mis habilidades en programación y electrónica.
+- 📫 Puedes contactarme por correo electrónico en [haroldolaya.2499@hotmail.com](mailto:haroldolaya.2499@hotmail.com).
+
+## Mi Portafolio 🌐
+
+¡Echa un vistazo a mi portafolio en línea para ver algunos de mis proyectos y aprender más sobre mi trabajo!
+
+[**Portafolio de Harold Olaya**](https://haroldolaya.mystrikingly.com/)
+
+## Proyectos Destacados 🚀
+
+Aquí encontrarás algunos de los proyectos en los que he estado trabajando
+
+## ¡Gracias por visitar mi perfil! 🙌
+
+Gracias por pasar por aquí y conocer un poco más sobre mí. No dudes en explorar mis proyectos y conectarte conmigo. ¡Espero poder colaborar contigo en el futuro!
