@@ -1,33 +1,60 @@
-# Bienvenidos a mi perfil de GitHub 👋
+👋 Bienvenido a mi perfil de GitHub
+¡Hola! Soy Harold Olaya, estudiante de Ingeniería Electrónica y desarrollador especializado en Odoo.
+Me apasiona automatizar procesos, personalizar módulos y crear soluciones empresariales con este potente ERP.
 
-¡Hola! Soy Harold Olaya, un estudiante de ingeniería electrónica apasionado por la tecnología y la programación. Estoy emocionado de compartir mi trabajo y proyectos en este repositorio.
-Me especializo en:
+⚙️ Especialización en Odoo
+💼 ¿Qué hago con Odoo?
 
-- 🌐 Desarrollo web con **Django** y **Flask**.
-- ⚛️ Creación de aplicaciones web interactivas con **React**.
-- 🐘 Bases de datos **PostgreSQL** y **SQLite**.
-- 🐍 Programación en **Python**.
-- ☕ Programación en **Java**.
-- 🐼 Manipulación de datos con **Pandas**.
-- 🔢 Cálculos científicos con **NumPy**.
-- 📊 Visualización de datos con **Matplotlib**.
+🔄 Personalización de módulos: desarrollo de módulos a medida para adaptarse a necesidades específicas.
 
-## Sobre mí 👨‍💻
+🧩 Integración de aplicaciones: conexión de Odoo con sistemas externos mediante API, RPC y controladores.
 
-- 💼 Actualmente estoy cursando la ingeniería electrónica.
-- 🌱 Siempre estoy aprendiendo y mejorando mis habilidades en programación y electrónica.
-- 📫 Puedes contactarme por correo electrónico en [haroldolaya.2499@hotmail.com](mailto:haroldolaya.2499@hotmail.com).
+🛠️ Desarrollo backend y frontend: desde lógica de negocio en Python hasta vistas y componentes OWL.
 
-## Mi Portafolio 🌐
+📊 Automatización de procesos: reglas de negocio, acciones programadas, flujos de trabajo eficientes.
 
-¡Echa un vistazo a mi portafolio en línea para ver algunos de mis proyectos y aprender más sobre mi trabajo!
+🔗 Despliegue y mantenimiento: configuración de entornos, optimización de bases de datos y resolución de incidencias.
 
-[**Portafolio de Harold Olaya**](https://haroldolaya.mystrikingly.com/)
+🗂️ Bases de datos: administración de PostgreSQL para entornos Odoo.
 
-## Proyectos Destacados 🚀
+🚀 Proyectos destacados con Odoo:
+(Aquí puedes listar algunos módulos o integraciones claves. Por ejemplo:)
 
-Aquí encontrarás algunos de los proyectos en los que he estado trabajando
+Módulo para gestión de inventario multi-ubicación.
 
-## ¡Gracias por visitar mi perfil! 🙌
+Automatización de reglas de reabastecimiento.
 
-Gracias por pasar por aquí y conocer un poco más sobre mí. No dudes en explorar mis proyectos y conectarte conmigo. ¡Espero poder colaborar contigo en el futuro!
+Personalización del POS con OWL.
+
+Reportes dinámicos para ventas y compras.
+
+👨‍💻 También trabajo con
+Aunque mi enfoque principal es Odoo, también tengo experiencia en otras tecnologías que complementan mis proyectos:
+
+🌐 Desarrollo web con Django y Flask
+
+⚛️ Aplicaciones interactivas con React
+
+🐍 Programación avanzada en Python
+
+☕ Programación en Java
+
+🐼 Análisis de datos con Pandas, NumPy, Matplotlib
+
+🐘 Bases de datos PostgreSQL y SQLite
+
+🌱 Sobre mí
+🎓 Actualmente estudio Ingeniería Electrónica.
+
+🤝 Me gusta resolver problemas reales con tecnología.
+
+📫 Contacto: haroldolaya.2499@hotmail.com
+
+🌐 Mi portafolio
+https://cv-haroldolaya99.pythonanywhere.com/
+👉 Explora mi portafolio en línea
+
+🙌 ¡Gracias por visitar mi perfil!
+Gracias por pasarte por aquí y conocer un poco más de mi trabajo.
+Explora mis repositorios y no dudes en contactarme para colaborar.
+¡Espero poder trabajar contigo pronto!
